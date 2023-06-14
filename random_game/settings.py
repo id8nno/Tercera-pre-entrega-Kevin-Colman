@@ -55,7 +55,7 @@ ROOT_URLCONF = 'random_game.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:\\Users\\USUARIO\\Documents\\Entregas\\Proyect_02\\prueba2\\APP\\plantilla"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
